@@ -1,0 +1,53 @@
+.portfolio-block.projects-cards .card img {
+	width:300px;
+    height:300px;
+	object-fit: contain;
+
+   
+}
+
+.carousel-button {
+	font-size: 40px;
+	-webkit-text-stroke-width: 2px;
+	-webkit-text-stroke-color: brown;
+    font-size: 3em; 
+    color: #fffdd9;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #343a40;
+}
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    font-size: .80em;
+}
+
+.portfolio-block.projects-cards .card .red-card {    
+    background-color: #ff120e;
+    font-size: .80em;
+    display: inline-block;
+    padding: 10px 15px;
+    border-radius: 2em;
+    color: #ffffff;
+    margin-right: 20px;
+    margin-bottom: 30px;   
+
+}
+
+.portfolio-block.projects-cards .card {    
+ 
+
+}
+.portfolio-block.projects-cards .card .green-card {    
+    background-color: #057111;
+    font-size: .80em;
+    display: inline-block;
+    padding: 10px 15px;
+    border-radius: 2em;
+    color: #ffffff;
+    margin-right: 20px;
+    margin-bottom: 30px;
+
+}
